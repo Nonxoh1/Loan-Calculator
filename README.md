@@ -1,4 +1,4 @@
-<h1>Here is a simple loan calculator model</h1>
+<h1>LapoMfb Loan and Savings Calculator</h1>
 
  ### [DASHBOARD LINK](https://app.powerbi.com/groups/me/reports/3be2a217-62eb-4ac7-80b9-9b44f5536b06/d6b7fa55e4c18dcfc3d5?experience=power-bi)
 
