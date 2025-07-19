@@ -3,7 +3,7 @@
 ### 🎥 [Project Demo Screenshot](#project-screenshot)
 
 <h2>Description</h2>
-This project is a simple loan and savings calculator built with Python. It's a command-line utility designed to help users calculate loan repayment schedules using the **simple interest formula**.
+This project is a simple loan calculator built with Python. It's a command-line utility designed to help users calculate loan repayment schedules using the **simple interest formula**.
 
 Users input their name, loan amount, tenure (in months), and annual interest rate. The program calculates the total interest, monthly repayments, and shows a detailed month-by-month breakdown — including principal, interest, and outstanding balances.
 
@@ -26,23 +26,23 @@ It's useful for microfinance use-cases, personal finance tracking, and beginner-
 <p align="center">
 
 🟢 Launch the calculator:<br/>
-<img src="./Loan%20calculator%20screenshot.png" height="80%" width="80%" alt="Loan Calculator Start"/>
+<img src="https://i.imgur.com/jdG7QHp.jpeg" height="80%" width="80%" alt="Loan Calculator Start"/>
 <br /><br />
 
 🧾 Enter user info and loan details:<br/>
-<img src="./Loan%20calculator%20screenshot.png" height="80%" width="80%" alt="User Inputs"/>
+<img src="https://i.imgur.com/Gw5XtYu.jpeg" height="80%" width="80%" alt="User Inputs"/>
 <br /><br />
 
 📊 Program calculates total interest and repayment:<br/>
-<img src="./Loan%20calculator%20screenshot.png" height="80%" width="80%" alt="Loan Summary"/>
+<img src="https://i.imgur.com/FO1YNaR.jpeg" height="80%" width="80%" alt="Loan Summary"/>
 <br /><br />
 
 📅 Full monthly repayment schedule is displayed:<br/>
-<img src="./Loan%20calculator%20screenshot.png" height="80%" width="80%" alt="Repayment Schedule"/>
+<img src="https://i.imgur.com/e7nkZTc.jpeg" height="80%" width="80%" alt="Repayment Schedule"/>
 <br /><br />
 
 ✅ Final balance reaches ₦0 after last payment:<br/>
-<img src="./Loan%20calculator%20screenshot.png" height="80%" width="80%" alt="Completed"/>
+<img src="https://i.imgur.com/x09FtsD.jpeg" height="80%" width="80%" alt="Completed"/>
 </p>
 
 <br/>
@@ -63,4 +63,4 @@ It's useful for microfinance use-cases, personal finance tracking, and beginner-
 
 ```bash
 # Clone the repo or download the files
-python loan_calculator.py
+python loan_calculator_app.py
