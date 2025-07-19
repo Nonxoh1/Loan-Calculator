@@ -1,6 +1,5 @@
 <h1>💸 Loan & Savings Calculator</h1>
 
-### 🎥 [Project Demo Screenshot](#project-screenshot)
 
 <h2>Description</h2>
 This project is a simple loan calculator built with Python. It's a command-line utility designed to help users calculate loan repayment schedules using the **simple interest formula**.
